@@ -11,7 +11,7 @@ int main()
 	next=prev+cur;
 	printf("%d ", next);
 	prev=cur;
-    cur=next;
+        cur=next;
     }
     return 0;
 }
